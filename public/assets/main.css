@@ -1,0 +1,12 @@
+main img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+main.container {
+  height: 100vh;
+}
+
+.mt-6 {
+  margin-top: 6rem;
+}
